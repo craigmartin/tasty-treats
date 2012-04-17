@@ -12,12 +12,12 @@
 
 <a name="ruby"></a>
 ## Ruby 
--- see ruby.md
+[link text](https://github.com/craigmartin/tasty-treats/tree/master/ruby/)
 
 <a name="python"></a>
 ## Python
--- see python.md
+[link text](https://github.com/craigmartin/tasty-treats/tree/master/python/)
 
 <a name="javascript"></a>
 ## JavaScript
--- see js.md
+[link text](https://github.com/craigmartin/tasty-treats/tree/master/javascript/)

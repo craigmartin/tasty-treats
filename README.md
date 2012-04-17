@@ -12,12 +12,12 @@
 
 <a name="ruby"></a>
 ## Ruby 
-[link text](https://github.com/craigmartin/tasty-treats/tree/master/ruby/)
+[ruby.md](https://github.com/craigmartin/tasty-treats/tree/master/ruby/)
 
 <a name="python"></a>
 ## Python
-[link text](https://github.com/craigmartin/tasty-treats/tree/master/python/)
+[python.md](https://github.com/craigmartin/tasty-treats/tree/master/python/)
 
 <a name="javascript"></a>
 ## JavaScript
-[link text](https://github.com/craigmartin/tasty-treats/tree/master/javascript/)
+[js.md](https://github.com/craigmartin/tasty-treats/tree/master/javascript/)
